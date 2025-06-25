@@ -46,3 +46,4 @@ python app.py
 ## 📸 Demo
 ![SignVision Demo](signvision_demo.gif)
 
+
