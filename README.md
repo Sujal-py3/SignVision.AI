@@ -34,7 +34,11 @@ It captures hand gestures via webcam, identifies ASL signs, and converts them in
 - 🔁 Supports dataset expansion + retraining
 
 ---
+## 📸 Demo
 
+![SignVision Demo](signvision_demo.gif)
+
+---
 ## 📦 Installation
 
 ```bash
@@ -43,7 +47,5 @@ cd SignVision.AI
 pip install -r requirements.txt
 python app.py
 
-##Demo
-![SignVision Demo](signvision_demo.gif)
 
 
