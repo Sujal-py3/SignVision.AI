@@ -44,8 +44,5 @@ pip install -r requirements.txt
 python app.py
 
 ## 📸 Demo
+![SignVision Demo](signvision_demo.gif)
 
-![SignVision Demo](./signvision_demo.gif)
-<p align="center">
-  <img src="./signvision_demo.gif" alt="SignVision Demo" width="600"/>
-</p>
